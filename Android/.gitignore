@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+gradle/caches/
+gradle/android/
+gradle/daemon/
+gradle/gradle-daemon-jvm.properties
+gradle/kotlin-profile/
+gradle/native/
